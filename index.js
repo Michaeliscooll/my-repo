@@ -5,3 +5,8 @@ document.querySelector('button').addEventListener('click', () => {
 
 
 document.querySelector('button').style.background = 'red';
+document.querySelector('button').style.background = 'red';
+document.querySelector('button').style.background = 'red';
+document.querySelector('button').style.background = 'red';
+document.querySelector('button').style.background = 'red';
+document.querySelector('button').style.background = 'red';
