@@ -1,3 +1,0 @@
-function runMe(){
-    return 'hey';
-}
