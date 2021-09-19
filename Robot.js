@@ -1,6 +1,6 @@
 class Robot{
-    constructor(){
-        
+    constructor(batteryLife){
+        this.batteryLife = batteryLife;
     }
 
     method1(){}
@@ -14,4 +14,6 @@ class Robot{
     method5(){}
 
     method6(){}
+
+
 }

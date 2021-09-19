@@ -10,4 +10,10 @@ class API{
     method3(){}
 
     method4(){}
+
+    retrieveData(){}
+
+    pushData(){}
+
+    revertData(){}
 }

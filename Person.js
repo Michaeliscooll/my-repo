@@ -12,4 +12,8 @@ class Person{
     eat(foodEaten = 'Apples'){
        console.log(this.name + ' eats ' + foodEaten);
     }
+
+    sleep(){}
+
+    run(){}
 }
